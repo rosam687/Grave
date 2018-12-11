@@ -1,10 +1,4 @@
-if state == "roll"
-{
-	state = "move";
-	image_index = 0;
-}
-
-if state == "attack one"
+if state == "roll" or state == "attack one" or state == "attack two" or state == "attack three"
 {
 	state = "move";
 	image_index = 0;
