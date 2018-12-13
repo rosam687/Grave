@@ -31,6 +31,22 @@
     },
     "resources": [
         {
+            "Key": "072b91ab-04b4-4535-a85a-3b68d2285bb3",
+            "Value": {
+                "id": "cce86202-c0ef-44e3-b7bc-2a0631546e6a",
+                "resourcePath": "sprites\\sprite13\\sprite13.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "0807b4ef-aa31-4a17-8007-dd744f2a032e",
+            "Value": {
+                "id": "6fdf6bdf-be68-4f27-8bc9-8e7fb5b09f17",
+                "resourcePath": "sprites\\s_knight_die_strip6\\s_knight_die_strip6.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "0d0fccaf-0dba-49d9-a5ba-38269d7c6c04",
             "Value": {
                 "id": "8cdaba05-3901-4263-b461-df5264b3c24f",
@@ -44,6 +60,14 @@
                 "id": "d4f150c0-b4d3-428e-86a6-06e358b80898",
                 "resourcePath": "objects\\o_wall\\o_wall.yy",
                 "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "1595938f-a7ce-447c-a738-ae2650521aa5",
+            "Value": {
+                "id": "5e78d55a-9bb7-4acd-9e1e-168bacce0ee8",
+                "resourcePath": "sprites\\s_knight_walk_strip4\\s_knight_walk_strip4.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -95,11 +119,27 @@
             }
         },
         {
+            "Key": "35a5cada-658b-4924-b7c9-815a58709280",
+            "Value": {
+                "id": "8f05b94f-7c69-4ab2-b93d-5cc29ab5d89f",
+                "resourcePath": "views\\35a5cada-658b-4924-b7c9-815a58709280.yy",
+                "resourceType": "GMFolder"
+            }
+        },
+        {
             "Key": "3aeb38f5-baa7-4202-b48a-9f3b64b14810",
             "Value": {
                 "id": "e4de3e8b-2bc6-4127-b795-fd98c772e7ab",
                 "resourcePath": "views\\3aeb38f5-baa7-4202-b48a-9f3b64b14810.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3f6d0532-9cd8-4e86-b5b4-22a013ee283c",
+            "Value": {
+                "id": "d289c6a1-a791-4a1d-bd3b-0879b09a3372",
+                "resourcePath": "sprites\\s_knight_hitstun\\s_knight_hitstun.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -167,6 +207,14 @@
             }
         },
         {
+            "Key": "6fe4469f-22f7-48e3-9317-e06e8d986484",
+            "Value": {
+                "id": "2f41f7d4-fe93-4b2c-aa28-908d162a4d1e",
+                "resourcePath": "sprites\\s_knight_idle_strip3\\s_knight_idle_strip3.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73cceef5-d480-4a21-b59f-f01c23d3858b",
             "Value": {
                 "id": "77f58928-c76a-4dc9-b52c-18aeecc67b2b",
@@ -196,6 +244,14 @@
                 "id": "1746ece7-ecca-4504-a2c3-6960efefb306",
                 "resourcePath": "views\\8230c549-ff3a-43cf-ba4b-fbea29f8441a.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "82997f04-5bbc-41cf-909c-f3b6ca614671",
+            "Value": {
+                "id": "895e70c7-697a-4379-b11d-1124f175dd33",
+                "resourcePath": "sprites\\s_knight_attack_strip12\\s_knight_attack_strip12.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -252,6 +308,14 @@
                 "id": "5d0f35be-65e3-485f-834e-288647732813",
                 "resourcePath": "views\\b7107a36-3a6d-48c9-8002-517f61374e66.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "c67e65ca-069c-4d85-90fc-b64de7e490b0",
+            "Value": {
+                "id": "caffa108-99b0-495f-86be-868210024d2f",
+                "resourcePath": "objects\\o_Knight\\o_Knight.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -316,6 +380,14 @@
                 "id": "d88f2015-a9c6-49d4-a950-384ad133545d",
                 "resourcePath": "views\\e1076350-13af-4554-86a8-9370dcb2bf03.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "eb98403d-4492-4881-b3f1-1d86a8530342",
+            "Value": {
+                "id": "e8108c74-595f-494a-94e2-d6ab5d9e17f4",
+                "resourcePath": "sprites\\s_knight_mask\\s_knight_mask.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
