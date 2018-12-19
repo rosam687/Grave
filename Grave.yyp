@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "072b91ab-04b4-4535-a85a-3b68d2285bb3",
-            "Value": {
-                "id": "cce86202-c0ef-44e3-b7bc-2a0631546e6a",
-                "resourcePath": "sprites\\sprite13\\sprite13.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "0807b4ef-aa31-4a17-8007-dd744f2a032e",
             "Value": {
                 "id": "6fdf6bdf-be68-4f27-8bc9-8e7fb5b09f17",
@@ -103,6 +95,14 @@
             }
         },
         {
+            "Key": "29cbb14f-1fed-4970-9524-03b89a4112a7",
+            "Value": {
+                "id": "30cec52e-6df2-4ec0-9ad1-94a4b6bac487",
+                "resourcePath": "scripts\\animation_hit_frame\\animation_hit_frame.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "2bdd77ac-1605-4632-91ec-53baf910f200",
             "Value": {
                 "id": "76d735c8-f34a-4c5b-b7e7-2066e911e9c4",
@@ -159,6 +159,14 @@
             }
         },
         {
+            "Key": "470d0328-a87e-4680-bd36-89f2a3b5f128",
+            "Value": {
+                "id": "0ff2f6c4-aca7-45d5-835f-5c4ecff75c80",
+                "resourcePath": "objects\\o_lifeform\\o_lifeform.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4accb960-f2e8-4780-b764-d28f1c3b7b75",
             "Value": {
                 "id": "a5f2f8d1-1c8a-4414-9001-b9843ad1665e",
@@ -188,6 +196,14 @@
                 "id": "f7302e84-45bb-4727-b776-68541bfa8eeb",
                 "resourcePath": "sprites\\s_skeleton_attack_two\\s_skeleton_attack_two.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "5644cbd4-3b2e-446d-b8fe-8e6287105e9b",
+            "Value": {
+                "id": "8c6fc8be-9daa-49b1-b2f8-49eea74827ef",
+                "resourcePath": "objects\\o_hitbox\\o_hitbox.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -223,14 +239,6 @@
             }
         },
         {
-            "Key": "73d4c750-0e6f-4a35-985c-a604c2c3cbf9",
-            "Value": {
-                "id": "319bae59-c394-496c-b61f-2a4d5b782a65",
-                "resourcePath": "sprites\\s_skeleton_bones\\s_skeleton_bones.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "8109e2d5-6a1b-4d5b-ac71-0202107274e1",
             "Value": {
                 "id": "f16ea101-f5c3-481b-9c25-c01061da99f6",
@@ -255,6 +263,14 @@
             }
         },
         {
+            "Key": "92db37e2-36fd-4f9f-88bf-7ff589fe8057",
+            "Value": {
+                "id": "f6e2bd19-98eb-46bc-b203-3ea72788c2a2",
+                "resourcePath": "scripts\\create_hitbox\\create_hitbox.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "95a756e0-8eeb-4fca-9aa2-f964e04d4842",
             "Value": {
                 "id": "be76cb6e-978d-4f8b-b019-19e266929585",
@@ -268,6 +284,14 @@
                 "id": "9bebc132-03fa-4252-9dd9-0d3cce66afe3",
                 "resourcePath": "views\\976c2132-55e2-4f7e-bc3d-377d12f7632e.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "993bb999-2faf-42a5-8d32-04ce72416d5d",
+            "Value": {
+                "id": "8417b54f-1d92-4a8a-8223-2f41beba8906",
+                "resourcePath": "scripts\\animation_end\\animation_end.yy",
+                "resourceType": "GMScript"
             }
         },
         {
@@ -419,7 +443,10 @@
         "2bdd77ac-1605-4632-91ec-53baf910f200",
         "abd92c3a-2eca-4b1c-abc8-583835c517a3",
         "a496b3c8-eb95-4f53-9dcf-401c1b6d8491",
-        "73cceef5-d480-4a21-b59f-f01c23d3858b"
+        "73cceef5-d480-4a21-b59f-f01c23d3858b",
+        "29cbb14f-1fed-4970-9524-03b89a4112a7",
+        "993bb999-2faf-42a5-8d32-04ce72416d5d",
+        "92db37e2-36fd-4f9f-88bf-7ff589fe8057"
     ],
     "tutorial": ""
 }
