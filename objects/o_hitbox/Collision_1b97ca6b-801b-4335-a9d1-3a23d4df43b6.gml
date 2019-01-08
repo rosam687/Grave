@@ -1,6 +1,8 @@
-if creator == noone or creator == other
+if creator == noone or creator == other or ds_list_find_index(hit_objects, other) != -1
 {
-	exit;
+	exit;	
 }
 
-instance_destroy(other);
+other.hp -= damage;
+ds_list_add(hit_objects, other);
+show_debug_message(other.hp);

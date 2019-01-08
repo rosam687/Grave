@@ -64,7 +64,7 @@ switch (state)
 		
 		if animation_hit_frame(0)
 		{
-			create_hitbox(x, y, self, s_skeleton_attack_one_damage, 4, 4, 1, image_xscale);
+			create_hitbox(x, y, self, s_skeleton_attack_one_damage, 4, 4, 5, image_xscale);
 		}
 		
 		if input.attack and animation_hit_frame_range(2, 4)
@@ -85,7 +85,7 @@ switch (state)
 		
 		if animation_hit_frame(1)
 		{
-			create_hitbox(x, y, self, s_skeleton_attack_two_damage, 4, 4, 1, image_xscale);
+			create_hitbox(x, y, self, s_skeleton_attack_two_damage, 4, 4, 5, image_xscale);
 		}
 		
 		if input.attack and animation_hit_frame_range(2, 4)
@@ -107,7 +107,7 @@ switch (state)
 		
 		if animation_hit_frame(2)
 		{
-			create_hitbox(x, y, self, s_skeleton_attack_three_damage, 4, 4, 1, image_xscale);
+			create_hitbox(x, y, self, s_skeleton_attack_three_damage, 4, 4, 8, image_xscale);
 		}
 		
 		if animation_end()
